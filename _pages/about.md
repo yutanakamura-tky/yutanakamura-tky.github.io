@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Yuta Nakamura's Curriculum Vitae"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
