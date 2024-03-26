@@ -10,6 +10,10 @@ redirect_from:
 
 {% include base_path %}
 
+## Contact
+
+yutanakamura [hyphen] tky [at] umin.ac.jp
+
 ## About me
 I am a biomedical natural language processing (NLP) researcher and a board-certified diagnostic radiologist at the University of Tokyo Hospital.
 
