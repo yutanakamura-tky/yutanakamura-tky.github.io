@@ -1,0 +1,16 @@
+---
+title: "Clinical Comparable Corpus Describing the Same Subjects with Different Expressions "
+collection: publications
+permalink: /publication/2022-06-06-clinical-comparable-corpus
+excerpt: 'Medical artificial intelligence (AI) systems need to learn to recognize synonyms or paraphrases describing the same anatomy, disease, treatment, etc. to better understand real-world clinical documents. Existing linguistic resources focus on variants at the word or sentence level. To handle linguistic variations on a broader scale, we proposed the Medical Text Radiology Report section Japanese version (MedTxt-RR-JA), the first clinical comparable corpus. MedTxt-RR-JA was built by recruiting nine radiologists to diagnose the same 15 lung cancer cases in Radiopaedia, an open-access radiological repository. The 135 radiology reports in MedTxt-RR-JA were shown to contain word-, sentence- and document-level variations maintaining similarity of contents. MedTxt-RR-JA is also the first publicly available Japanese radiology report corpus that would help to overcome poor data availability for Japanese medical AI systems. Moreover, our methodology can be applied widely to building clinical corpora without privacy concerns.'
+date: 2022-06-06
+venue: 'Studies in Health Technology and Informatics'
+paperurl: 'https://pubmed.ncbi.nlm.nih.gov/35673012/'
+citation: '<b>Yuta Nakamura</b>, Shouhei Hanaoka, Yukihiro Nomura, Naoto Hayashi, Osamu Abe, Shunrato Yada, Shoko Wakamiya, Eiji Aramaki. Clinical Comparable Corpus Describing the Same Subjects with Different Expressions. Stud Health Technol Inform 2022;290:253-257. '
+---
+
+<a href='https://pubmed.ncbi.nlm.nih.gov/35673012/'>Download paper here</a>
+
+Medical artificial intelligence (AI) systems need to learn to recognize synonyms or paraphrases describing the same anatomy, disease, treatment, etc. to better understand real-world clinical documents. Existing linguistic resources focus on variants at the word or sentence level. To handle linguistic variations on a broader scale, we proposed the Medical Text Radiology Report section Japanese version (MedTxt-RR-JA), the first clinical comparable corpus. MedTxt-RR-JA was built by recruiting nine radiologists to diagnose the same 15 lung cancer cases in Radiopaedia, an open-access radiological repository. The 135 radiology reports in MedTxt-RR-JA were shown to contain word-, sentence- and document-level variations maintaining similarity of contents. MedTxt-RR-JA is also the first publicly available Japanese radiology report corpus that would help to overcome poor data availability for Japanese medical AI systems. Moreover, our methodology can be applied widely to building clinical corpora without privacy concerns.
+
+Recommended citation: <b>Yuta Nakamura</b>, Shouhei Hanaoka, Yukihiro Nomura, Naoto Hayashi, Osamu Abe, Shunrato Yada, Shoko Wakamiya, Eiji Aramaki. Clinical Comparable Corpus Describing the Same Subjects with Different Expressions. Stud Health Technol Inform 2022;290:253-257. 
