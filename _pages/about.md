@@ -10,14 +10,19 @@ redirect_from:
 
 {% include base_path %}
 
+## About me
+I am a biomedical natural language processing (NLP) researcher and a board-certified diagnostic radiologist at the University of Tokyo Hospital.
+
+My ambition is to introduce NLP to enhance clinical workflows and improve the quality of care. A particular area of interest is addressing the shortage of open-access Japanese language resources in the biomedical field.
+
+To this end, I have created approximately 400 Japanese radiology reports that are devoid of personal information and made them publicly available. Using these resources, I have organized two shared tasks during <a href="https://sociocom.naist.jp/real-mednlp/" target="_blank">NTCIR-16</a> and <a href="https://sociocom.naist.jp/mednlp-sc/" target="_blank">NTCIR-17</a>, with the aim of fostering innovation and enhancing collaboration between the NLP and medical communities.
+
 ## Publications
-======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 ## Education
-======
 * Ph.D. in Medicine, 2023
   * Division of Radiology and Biomedical Engineering, Graduate School of Medicine, The University of Tokyo, Tokyo, Japan
   * Supervisor: Professor Osamu Abe
@@ -29,7 +34,6 @@ redirect_from:
   * Department of Medicine, The University of Tokyo, Tokyo, Japan
 
 ## Work experience
-======
 * Department of Computational Diagnostic Radiology and Preventive Medicine, the University of Tokyo Hospital, 2023--
 * Department of Radiology, the University of Tokyo Hospital, 2021--2022
 * Department of Radiology, Toranomon Hospital, 2019--2020

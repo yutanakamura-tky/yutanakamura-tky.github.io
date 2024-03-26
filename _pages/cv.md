@@ -11,13 +11,11 @@ redirect_from:
 {% include base_path %}
 
 ## Publications
-======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 ## Education
-======
 * Ph.D. in Medicine, 2023
   * Division of Radiology and Biomedical Engineering, Graduate School of Medicine, The University of Tokyo, Tokyo, Japan
   * Supervisor: Professor Osamu Abe
@@ -29,7 +27,6 @@ redirect_from:
   * Department of Medicine, The University of Tokyo, Tokyo, Japan
 
 ## Work experience
-======
 * Department of Computational Diagnostic Radiology and Preventive Medicine, the University of Tokyo Hospital, 2023--
 * Department of Radiology, the University of Tokyo Hospital, 2021--2022
 * Department of Radiology, Toranomon Hospital, 2019--2020
